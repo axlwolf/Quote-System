@@ -25,7 +25,7 @@ include "include/aside.php";
                 <section class="panel">
                     <div class="user-heading round">
                         <a href="#">
-                            <img src="../img/avatar.png" alt="">
+                            <img src="img/avatar.png" alt="">
                         </a>
                         <h1><?= $_SESSION['nombre']; ?></h1>
                        
@@ -94,14 +94,14 @@ include "include/aside.php";
 </section>
 
     <!-- js placed at the end of the document so the pages load faster -->
-    <script src="flatlab/js/jquery.js"></script>
-    <script src="flatlab/js/bootstrap.min.js"></script>
-    <script src="flatlab/js/jquery.scrollTo.min.js"></script>
-    <script src="flatlab/js/jquery.nicescroll.js" type="text/javascript"></script>
-    <script src="flatlab/assets/jquery-knob/js/jquery.knob.js"></script>
+    <script src="assets/js/jquery.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/jquery.scrollTo.min.js"></script>
+    <script src="assets/js/jquery.nicescroll.js" type="text/javascript"></script>
+    <script src="assets/assets/jquery-knob/js/jquery.knob.js"></script>
 
     <!--common script for all pages-->
-    <script src="flatlab/js/common-scripts.js"></script>
+    <script src="assets/js/common-scripts.js"></script>
 
   <script>
 
