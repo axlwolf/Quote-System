@@ -1,0 +1,118 @@
+<section style="margin-bottom: 15px">
+					<h4><strong> ESTRUCTURA</strong></h4>
+
+					<table>
+
+						<tr>
+							<td class="forty" style='font-family: "Times New Roman"'>
+								<p>
+									<strong> Cuerpo: </strong>
+								</p>
+							</td>
+							<td style='font-family: "Times New Roman"'>
+							 En lámina de acero al carbón cal.10.
+							</td>
+						</tr>
+						<tr>
+							<td style='font-family: "Times New Roman"'>
+								<p>
+									<strong>Cerchas: </strong>
+								</p>
+							</td>
+							<td style='font-family: "Times New Roman"'>
+								<strong>Cerchas: </strong>Canal comercial en acero al carbón en cal.3/16”.
+							</td>
+						</tr>
+						<tr>
+							<td style='font-family: "Times New Roman"'>
+								<p>
+									 <strong>Bastidor: </strong>
+								</p>
+							</td>
+							<td style='font-family: "Times New Roman"'>
+								En placa de alta resistencia cal.1/4”.
+							</td>
+						</tr>
+						<tr>
+							<td style='font-family: "Times New Roman"'>
+								<p>
+									<strong>Acoplador superior: </strong>
+								</p>
+							</td>
+							<td style='font-family: "Times New Roman"'>
+								Fijo, soldado y atornillado entre las vigas principales del bastidor   frontal, con placa de 3/8”  en acero de alta resistencia, con perno rey HOLLAND.
+							</td>
+						</tr>
+						<tr>
+							<td style='font-family: "Times New Roman"'>
+								<p>
+									 <strong>
+                                        Domos:
+                                    </strong>
+
+								</p>
+							</td>
+							<td style='font-family: "Times New Roman"'>
+								<?= $domos ?>
+							</td>
+						</tr>
+						<tr>
+							<td style='font-family: "Times New Roman"'>
+								<p>
+									 <strong>
+                                        Manómetros:
+
+                                    </strong>
+								</p>
+							</td>
+							<td style='font-family: "Times New Roman"'>
+							     (1) de glicerina con 4” de caratula.
+							</td>
+						</tr>
+						<tr>
+							<td style='font-family: "Times New Roman"'>
+								<p>
+									  <strong>  Línea de alimentación:</strong>
+								</p>
+							</td>
+							<td style='font-family: "Times New Roman"'>
+							    Tubería de 3” en acero negro ced.40.
+							</td>
+						</tr>
+						<tr>
+							<td style='font-family: "Times New Roman"'>
+								<p>
+									 <strong> Línea de descarga: </strong>
+								</p>
+							</td>
+							<td style='font-family: "Times New Roman"'>
+								Tubería de 4” en acero negro ced.40.
+							</td>
+						</tr>
+                        <tr>
+							<td style='font-family: "Times New Roman"'>
+								<p>
+									  <strong> Válvulas de alivio: </strong>
+								</p>
+							</td>
+							<td style='font-family: "Times New Roman"'>
+								(3) En línea de alimentación al tanque.
+							</td>
+						</tr>
+						<tr>
+							<td style='font-family: "Times New Roman"'>
+								<p>
+									  <strong>
+                                        Válvula check:
+                                    </strong>
+
+								</p>
+							</td>
+							<td style='font-family: "Times New Roman"'>
+								Instalada en línea de alimentación.
+                                    “T” Descarga de material: Fabricada en aluminio de bajo perfil con entrada de 6” y descarga para tubo de 4”; con válvulas de mariposa de 6” para control de la descarga
+
+							</td>
+						</tr>
+					</table>
+				</section>

@@ -1,0 +1,121 @@
+*{
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+}
+@page {
+    size: letter;
+}
+
+@page :left {
+    margin-left: 1cm;
+}
+
+@page :right {
+    margin-left: 1cm;
+}
+
+body{
+    background-color: white;
+}
+
+.container{
+    width: 95%;
+    margin: 0 auto;
+}
+
+.completo{
+    font-weight: 300;
+}
+.titulo{
+    padding-top: 5px;
+    text-align: center;
+    /*height: 40px;*/
+}
+
+.principal{
+    /*border: solid 4px #000;*/
+    /* margin: 15px 0 0 0; */
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+.datos{
+    width: 100%;
+    /*margin: 0 auto;*/
+    /*height: 80px;*/
+}
+
+#datos td,th{
+    text-align: center;
+}
+
+section{
+    margin-bottom: 25px;
+}
+
+
+.page-headera {
+    margin-bottom: 10px;
+
+}
+
+.page-headera img{
+    width: 100%;
+    margin-bottom: 43px;
+    margin-top: 15px;
+    position: relative;
+}
+
+
+footer{
+    background: #066c3f;
+    text-align: center;
+    color: white;
+    font-size: x-large;
+}
+
+.contenedor {
+    text-align: left;
+    width: 850px;
+    margin: auto;
+    /*height: auto;*/
+}
+
+.lateral {
+    width: 180px; /*Este será el ancho que tendrá tu columna*/
+    /*background-color: #CCCCCC;  *//*Aquí pon el color del fondo que quieras para este lateral*/
+    float: left; /*Aqui determinas de lado quieres quede esta "columna" */
+    padding-top: 25px;
+    /*border-right: 4px solid #066c3f;*/
+    margin-bottom: 25px;
+}
+
+.principal1 {
+    margin-left: 190px; /*Este margen hace que no se encime el contenido en tu menúlateral, es     importante que pongas un pocos pixeles más que el ancho  de tu columna lateral*/
+    /*background-color: #FFFFFF;*/
+    /*border:#000000 1px solid; *//*ponemos un dorde para que se vea bonito*/
+    border-left: 4px solid #066c3f;
+    /*float: right;*/
+    margin-bottom: 25px;
+}
+td.forty{
+    width: 25%;
+}
+
+.verde{
+    background: #066c3f;
+    color: white;
+}
+
+.polaroid {
+    background-color:#fff;
+    padding:10px 10px 50px 10px;
+    border: 2px solid #BFBFBF;
+    box-shadow:10px 10px 30px rgba(0, 0, 0, 0.8);
+    margin: 2px;
+}
+
+.contenedor2{
+    border: 2px solid #066c3f;
+}

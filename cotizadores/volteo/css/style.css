@@ -1,0 +1,94 @@
+body{
+    background-color: #ffffff;  
+    font-family: "Times New Roman",Arial, Helvetica, sans-serif;
+}  
+
+a:link {
+    text-decoration: none;
+    color: #0080ff;
+} 
+
+a:visited{
+    text-decoration: none;
+    color: #0080ff;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: #0080ff;
+}
+
+a:active{
+    text-decoration: none;
+    color: #0080ff;
+}
+
+.section-title{
+    font-size: 14px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.section{
+    margin: 10px 10px;
+    
+}
+
+.label{
+    font-size: 12px;
+    font-style: italic;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    float:left;
+    margin: 3px 0;
+}
+
+.text{
+	font-size: 12px;
+}
+
+#content{
+	width: 360px;
+	margin: 10px auto 0 auto;
+	border: solid 1px #0080FF;
+}
+
+#title{
+	width: 100%;
+	height: 30px;
+	color: #fff;
+	background-color: #0080FF;
+	text-align: center;
+	font-weight: bold;
+	vertical-align: middle;
+	padding-top: 5px;
+}
+
+#errors{
+	width: 100%;
+	color: #f95572;
+	background-color: #fff;
+	text-align: left;
+	font-weight: bold;
+	vertical-align: middle;
+	padding: 5px 0px;
+	font-size: 10px;
+}
+
+input[type="text"], select{
+	float:right;
+}
+
+input[type="submit"]{
+	text-align:center;
+}
+
+.clear{
+	clear:both;
+}
+
+.data{
+	font-family: monospace,Courier;
+	float:right;
+	color: #F95572;
+}

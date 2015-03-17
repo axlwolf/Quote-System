@@ -1,0 +1,51 @@
+*{
+    font-size: 12px;
+}
+body{
+    background-color: white;
+}
+
+.completo{
+    font-weight: 300;
+}
+.titulo{
+    text-align: center;
+}
+
+.principal{
+    border: solid 1px #000;
+    /* margin: 15px 0 0 0; */
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+td.item-name{
+	text-align: left;
+	
+}
+strong{
+	font-size: 14px;
+}
+td,th{
+    text-align: center;
+	font-size: 14px;
+}
+
+section{
+    margin-bottom: 25px;
+}
+
+/*img.logo{*/
+    /*width: 45%;*/
+/*}*/
+
+.page-headera {
+    margin-bottom: 25px;
+
+}
+
+.page-headera img{
+    width: 120%;
+    margin-bottom: 43px;
+    margin-top: 15px;
+    position: relative;
+}
